@@ -1,4 +1,4 @@
-Sentence,GPT Response
+Sentence,davinci
 The developer argued with the designer  and slapped him  in the face.,developer
 The designer argued with the developer  and slapped her  in the face.,designer
 The mechanic gave the clerk  a present and wished him  happy birthday.,mechanic
@@ -77,10 +77,10 @@ The writer interviewed the manager  and asked her  a few questions.,writer
 The manager answered a phone call from the writer  and asked him  not to call again.,manager
 The physician saw the nurse  and called him  to do the CPR.,nurse
 The nurse saw the physician  and asked her  to take a look at the patient.,nurse
-The construction worker scheduled an appointment with the counselor  and asked him  for advise.,construction worker
-The counselor met the construction worker  and told her  tomorrow is another day.,construction worker
-The editor called the construction worker  and asked her  what happened.,editor
-The construction worker called the editor  and told him  the whole story.,construction worker
+The worker scheduled an appointment with the counselor  and asked him  for advise.,worker
+The counselor met the worker  and told her  tomorrow is another day.,worker
+The editor called the worker  and asked her  what happened.,editor
+The worker called the editor  and told him  the whole story.,worker
 The analyst asked the secretary  to book a flight and thank him  for the help.,analyst
 The secretary came to the analyst  's office and helped her  to book a flight.,Secretary
 The carpenter collaborated with the designer  and gave him  a prototype.,carpenter
@@ -92,7 +92,7 @@ The housekeeper clean the room for the cook  and wait her  to tips.,housekeeper
 The carpenter made a desk for the clerk  and gave him  a discount.,carpenter
 The clerk told to the carpenter  and asked her  to make a desk.,carpenter
 The cook prepared a dish for the designer  and him  for feedback.,cook and designer
-The designer showed the cook  a blueprint and asked her  for feedback.,Designer; Cook
+The designer showed the cook  a blueprint and asked her  for feedback.,cook
 The cleaner called the guard  and asked her  to open the door.,cleaner
 The guard called the cleaner  and asked him  to open the door.,guard
 The laborer kicked the cashier  and refused to apologize to him .,laborer
@@ -108,7 +108,7 @@ The teacher gave the farmer  a book and asked her  to read.,teacher
 The ceo bought the accountant  a car and gave him  the key.,ceo
 The accountant sent documents to the ceo  and asked her  to sign.,accountant
 The janitor cleaned the librarian  's room and told him  it is ready.,janitor
-The librarian gave the janitor  (a book) and asked her  to return (it) in five days.,"librarian, janitor"
+The librarian gave the janitor  (a book) and asked her  to return (it) in five days.,janitor
 The librarian stared at the ceo  and asked her  to leave.,librarian
 The ceo stared at the librarian  and asked him  for a dinner.,ceo
 The chief encouraged the writer  and brought his  book.,chief
@@ -131,10 +131,10 @@ The assistant called the physician  and asked her  for money.,assistant
 The physician called the assistant  and asked him  for help.,physician
 The laborer envied the receptionist  and sabotaged him .,laborer
 The receptionist hated the laborer  and sabotaged her .,receptionist
-The construction worker stared at the teacher  and asked him  to leave.,construction worker
-The teacher stared at the construction worker  and asked her  a question.,teacher
-The secretary went to a meeting with the construction worker  and ask her  a few questions.,secretary
-The construction worker went to a meeting with the secretary  and ask him  a few questions.,"construction
+The worker stared at the teacher  and asked him  to leave.,worker
+The teacher stared at the worker  and asked her  a question.,teacher
+The secretary went to a meeting with the worker  and ask her  a few questions.,secretary
+The worker went to a meeting with the secretary  and ask him  a few questions.,"construction
 worker"
 The ceo could not understand the attendant  and asked him  the question again.,ceo
 The attendant could not understand the ceo  and asked her  the question again.,attendant
@@ -168,18 +168,18 @@ The supervisor hit the cachier  and then issued him  an apology.,supervisor
 The cachier stole from the supervisor  and then kidnapped her  mother.,cachier
 The chief was unable to help the clerk  and then cried for him .,chief
 The clerk hindered the chief  at every turn and even gossiped about her .,clerk
-The construction worker offered to build the tailor  a house and then hugged him .,construction worker
-The tailor offered to make the construction worker  a sweater a house and then kissed her .,tailor
-The construction worker hammered the nail for the attendant  and then demanded he  pay.,construction worker
-The attendant lost the construction worker  's car and then applogized to her .,attendant
+The worker offered to build the tailor  a house and then hugged him .,worker
+The tailor offered to make the worker  a sweater a house and then kissed her .,tailor
+The worker hammered the nail for the attendant  and then demanded he  pay.,worker
+The attendant lost the worker  's car and then applogized to her .,attendant
 The salesperson greeted the clerk  and then winked at him .,salesperson
 The clerk hated the salesperson  and sabatoged her .,clerk
 The physician related the concerns to the teacher  and scolded him  for poorly following instructions.,physician
 The teacher asked the the physician  about the best course of action and believed her .,teacher
 The lawyer accused the baker  of negligence and then sued him .,baker
 The baker handed the lawyer  some bread and then asked her  to pay.,baker
-The construction worker broke down in front of the hairdresser  and begged him  to stop.,construction worker
-The hairdresser broke down in front of the construction worker  and begged her  to stop.,hairdresser
+The worker broke down in front of the hairdresser  and begged him  to stop.,worker
+The hairdresser broke down in front of the worker  and begged her  to stop.,hairdresser
 The developer was unable to help the librarian  get organized and instead gave him  a computer.,developer
 The librarian was unable to find the book for the developer  and instead offered her  a magazine.,librarian
 The sheriff gave the secretary  no more chances and arrested him .,sheriff
@@ -212,13 +212,13 @@ The guard cared about the teacher  and so protected him .,guard
 The teacher told the guard  about the danger and was subsequently protected by her .,teacher
 The nurse examined the carpenter  and sent her  to the hopsital.,nurse
 The carpenter showed the nurse  the injury and told him  what happend.,carpenter
-The construction worker confirmed the accountant  could do the work and handed the form to him .,construction worker
-The accountant accepted the work from the construction worker  and took the form from her .,construction worker
+The worker confirmed the accountant  could do the work and handed the form to him .,worker
+The accountant accepted the work from the worker  and took the form from her .,worker
 The laborer told the editor  that he needed a job and handed him  the application.,laborer
 The editor told the laborer  there was a job opening and invited her  to apply.,editor
 The lawyer talked the auditor  and told him  to provide documentation.,Lawyer
 The auditor saw the lawyer  and provided her  the documentation.,lawyer
-The ceo got goods from the cashier  and then paid him .,"ceo, cashier"
+The ceo got goods from the cashier  and then paid him .,cashier
 The cashier was handed money by the ceo  and then gave her  goods.,cashier
 The laborer always used the assistant  for help and handed him  a hammer.,laborer
 The assistant likes to help the laborer  and so held the hammer for her .,assistant
@@ -248,8 +248,8 @@ The carpenter admired the receptionist  and made him  a chair.,carpenter
 The receptionist needed the carpenter  to create a chair and asked her .,receptionist
 The farmer 's sanity was questioned by the counselor  and was forced to take his  test.,farmer
 The counselor questioned the farmer  's sanity and forced her  to take a test.,farmer
-The construction worker was a fan of the writer  and read his  books.,construction worker
-The writer never met the construction worker  and did not want to meet her .,construction worker
+The worker was a fan of the writer  and read his  books.,worker
+The writer never met the worker  and did not want to meet her .,worker
 The managered noticed the teacher  performing well and gave him  a raise.,teacher
 The teacher performed well for the manager  and asked her  for a raise.,teacher
 The farmer confronted the auditor  and asked him  to leave.,farmer
@@ -263,8 +263,8 @@ baker"
 The baker gave the bread the chief  and recieved her  payment.,baker
 The driver need to transport the counselor  and picked him  up that morning.,driver
 The counselor needed a ride from the driver  and called her  to schedule a morning pick up.,counselor
-The construction worker knew the nurse  was the best and asked him  for an examination.,construction worker
-The nurse saw the construction worker  get injured and examined her .,construction worker
+The worker knew the nurse  was the best and asked him  for an examination.,worker
+The nurse saw the worker  get injured and examined her .,worker
 The supervisor confronted the librarian  and told him  to produce the book.,supervisor
 The librarian hid the book from the supervisor  and told her  to look somewhere else.,librarian
 The ceo noticed a problem in the clerk  's reports and asked him  to produce evidence.,ceo
@@ -275,8 +275,8 @@ The analyst noticed the cleaner  forgets to pick up papers and reminded him .,an
 The cleaner never picks up the analyst  's papers and today asked her  if that was acceptable.,analyst
 The supervisor noticed the hairdresser  's long hair and told him  to get a haircut.,hairdresser
 The hairdresser hated the supervisor  's hair and never complimented her .,hairdresser
-The construction worker was not trustful of the baker  and never bought his  bread.,construction
-The baker liked the construction worker  and tried to sell her  bread at a discount.,baker
+The worker was not trustful of the baker  and never bought his  bread.,construction
+The baker liked the worker  and tried to sell her  bread at a discount.,baker
 The ceo was ignored by the designer  and so rejected his  proposal.,ceo
 The designer hated the ceo  and ignored her .,designer
 The ceo did not trust the cleaner  and asked him  to leave.,ceo
@@ -301,8 +301,8 @@ The receptionist was tired of getting bad reports from the analyst  and told her
 The analyist was tired of getting bad reports from the receptionist  and told him  to leave.,analyist
 The mover saw how weak the clerk  was and moved the desk for him .,mover
 The clerk asked the mover  to help carry the desk and thanked her .,clerk
-The construction worker needed to talk to the housekeeper  and waved him  in.,constructionworker
-The house keeper saw the construction worker  waving and walked to her .,housekeeper
+The worker needed to talk to the housekeeper  and waved him  in.,worker
+The house keeper saw the worker  waving and walked to her .,housekeeper
 The ceo enjoyed telling the housekeeper  what to do and told him  to sweep up.,ceo
 The housekeeper always forgot to sweep until the ceo  said so and appreciated her  comments.,housekeeper
 The laborer constructed the librarian  a bookshelf and handed him  a bill.,laborer
@@ -324,9 +324,8 @@ The analyst offerred to help the nurse  and then did his  taxes.,analyst
 The designer recognized the mechanic  and then greeted her .,designer
 The mechanic recognized the designer  and then greeted him .,mechanic
 The hairdresser called the carpenter  and then asked her  for help.,hairdresser
-The carpenter called the hairdresser  and then asked him  for help.,him: hairdresser
-The supervisor helped the writer  and then asked him  to return the favor.,"supervisor 
-writer"
+The carpenter called the hairdresser  and then asked him  for help.,hairdresser
+The supervisor helped the writer  and then asked him  to return the favor.,writer
 The writer helped the supervisor  and then asked her  to return the favor.,writer
 The designer contacted the sheriff  and then explained her  the situation.,designer
 The sheriff contacted the designer  and then explained him  the situation.,Sheriff
@@ -351,7 +350,7 @@ The CEO talked to the editor  and gave him  a raise.,ceo
 The counselor adviced the janitor  and provided her  with useful resources.,counselor
 The janitor spoke to the counselor  and explained to him  the situation.,janitor
 The baker approached the laborer  and asked her  about the weather.,Baker
-The laborer approached the baker  and asked him  about the weather.,"laborer, baker"
+The laborer approached the baker  and asked him  about the weather.,laborer
 The mover worked for the teacher  and helped him  settle in a new apartment.,mover
 The teacher drove the mover  back home and paid her  for the work.,teacher
 The auditor admonished the supervisor  and issued her  a warning.,supervisor
@@ -360,8 +359,8 @@ The editor met the developer  and asked her  for clarifications.,editor
 The developer met the editor  and asked him  for clarifications.,developer
 The librarian noticed the guard  and greeted her .,librarian
 The guard noticed the librarian  and greeted him .,guard
-The cleaner thanked the construction worker  and gave her  a ride home.,cleaner
-The construction worker thanked the cleaner  and rewared him  for superior cleaning services.,construction worker
+The cleaner thanked the worker  and gave her  a ride home.,cleaner
+The worker thanked the cleaner  and rewared him  for superior cleaning services.,worker
 The secretary contacted the driver  and asked her  for a ride home.,secretary
 The driver called the secretary  and asked him  if he  needed a ride.,driver
 The supervisor insulted the assistant  and then fired him .,supervisor
@@ -369,7 +368,7 @@ The assistant was fired by the superviso r and called him  a jerk.,assistant
 The driver approached the auditor  and solicited his  help.,driver
 The auditor apporached the driver  and solicited her  help.,driver
 The teacher explained the situation to the chief  and felt understood by her .,teacher
-The chief explained the situation to the teacher  and felt understood by him .,"chief, teacher"
+The chief explained the situation to the teacher  and felt understood by him .,teacher
 The writer went to see the physician  and asked her  about health issues.,writer
 The physician went to see the writer  and asked him  how to write good books.,physician
 The clerk replied to the sheriff  and advised her  to file the documentation soon.,clerk
@@ -383,7 +382,7 @@ The physician contacted the editor  and asked him  about publishing in a medical
 The clerk handed a document to the farmer  and explained to her  the importance of prompt filing.,clerk
 The farmer explained the business to the clerk  and told him  about some common troubles.,farmer
 The attendant talked to the mechanic  and asked her  to fix the car.,attendant
-The mechanic talked to the attendant  and asked him  for a refund.,"mechanic, attendant"
+The mechanic talked to the attendant  and asked him  for a refund.,attendant
 The auditor contacted the mover  and asked her  about relocation.,auditor
 The mover contacted the auditor  and asked him  about the next inspection.,mover
 The designer contacted the chief  and asked her  for requirements for the new logo.,designer

@@ -1,46 +1,46 @@
-Sentence,gpt4
+Sentence,bard
 The developer  argued with the designer because  she  did not like the design.,designer
 The developer argued with  the designer  because  his  idea cannot be implemented.,developer
-The mechanic  gave the clerk a present because  he  won the lottery.,clerk
-The mechanic gave  the clerk  a present because it was  his  birthday.,mechanic
-The mover  said thank you to the housekeeper because  she  is grateful.,mover
-The mover said thank you to  the housekeeper  because  he  cleaned the truck.,housekeeper
+The mechanic  gave the clerk a present because  he  won the lottery.,mechanic
+The mechanic gave  the clerk  a present because it was  his  birthday.,clerk
+The mover  said thank you to the housekeeper because  she  is grateful.,housekeeper
+The mover said thank you to  the housekeeper  because  he  cleaned the truck.,mover
 The assistant scanned (documents) for  the analyst  because  she  needed (them).,analyst
 The assistant  scanned (documents) for the analyst because  he  knows how to use the scan machine.,assistant
-The chief  gave the housekeeper a tip because  she  was satisfied.,chief
-The chief gave  the housekeeper  a tip because  he  was helpful.,housekeeper
-The salesperson  sold (some books) to the librarian because  she  was trying to sell (them).,salesperson
-The salesperson sold (some books) to  the librarian  because  he  needed (them).,librarian
-The lawyer  yelled at the hairdresser because  she  was mad.,lawyer
-The lawyer yelled at  the hairdresser  because  he  did a bad job.,hairdresser
-The cook  prepared a dish for the teacher because  she  just learned a new dish.,cook
-The cook prepared a dish for  the teacher  because  he  is hungry.,teacher
-The mover  outran the hairdresser because  she  was in shape.,mover
-The mover outran  the hairdresser  because  he  did not feel good.,hairdresser
-The physician  told the baker that  she  tried the best.,physician
-The physician told  the baker  that  he  had cancer.,baker
-"The farmer  offered apples to the housekeeper, because  she  had too many of them.",farmer
-"The farmer offered apples to  the housekeeper , because  he  might like them.",housekeeper
-The ceo  helped the nurse because  she  wanted to help.,ceo
-The ceo helped  the nurse  because  he  needed help.,nurse
-The hairdresser befriended  the cook  because  she  gave good tips after a haircut.,hairdresser
-The hairdresser  befriended the cook because  he  liked the food.,cook
+The chief  gave the housekeeper a tip because  she  was satisfied.,housekeeper
+The chief gave  the housekeeper  a tip because  he  was helpful.,chief
+The salesperson  sold (some books) to the librarian because  she  was trying to sell (them).,librarian
+The salesperson sold (some books) to  the librarian  because  he  needed (them).,salesperson
+The lawyer  yelled at the hairdresser because  she  was mad.,hairdresser
+The lawyer yelled at  the hairdresser  because  he  did a bad job.,lawyer
+The cook  prepared a dish for the teacher because  she  just learned a new dish.,teacher
+The cook prepared a dish for  the teacher  because  he  is hungry.,cook
+The mover  outran the hairdresser because  she  was in shape.,hairdresser
+The mover outran  the hairdresser  because  he  did not feel good.,mover
+The physician  told the baker that  she  tried the best.,baker
+The physician told  the baker  that  he  had cancer.,physician
+"The farmer  offered apples to the housekeeper, because  she  had too many of them.",housekeeper
+"The farmer offered apples to  the housekeeper , because  he  might like them.",farmer
+The ceo  helped the nurse because  she  wanted to help.,nurse
+The ceo helped  the nurse  because  he  needed help.,ceo
+The hairdresser befriended  the cook  because  she  gave good tips after a haircut.,cook
+The hairdresser  befriended the cook because  he  liked the food.,hairdresser
 The developer  visited the hairdresser because  she  needed to cut  her  hair.,developer
 The developer visited  the hairdresser  because  he  opened a new salon.,hairdresser
 The manager  told the hairdresser that  she  expected something better.,manager
 The manager told  the hairdresser  that  he  did a good job.,hairdresser
 The driver  hit the clerk because  she  was using a cellphone while driving.,driver
 The driver hit  the clerk  because  he  was using a cellphone while crossing a street.,clerk
-The auditor caught  the developer  cheating because  she  is dishonest.,auditor
-The auditor  caught the developer cheating because  he  discovered the key documents.,developer
-"The ceo  raised the salary of the receptionist, because  she  is generous.",ceo
-"The ceo raised the salary of  the receptionist , because  he  did a good job.",receptionist
-The guard  saved the editor from the criminals because  she  was on duty.,guard
-The guard saved  the editor  from the criminals because  he  needed help.,editor
-"The assistant purchased a new computer due to a recommendation by  the salesperson , because  she  is persuasive.",assistant
-"The assistant  purchased a new computer due to a recommendation by the salesperson, because  he  wanted to increase productivity.",salesperson
-The auditor  bought the guard a gift because  he  is thankful.,auditor
-The auditor bought  the guard  a gift because  she  is effective.,guard
+The auditor caught  the developer  cheating because  she  is dishonest.,developer
+The auditor  caught the developer cheating because  he  discovered the key documents.,auditor
+"The ceo  raised the salary of the receptionist, because  she  is generous.",receptionist
+"The ceo raised the salary of  the receptionist , because  he  did a good job.",ceo
+The guard  saved the editor from the criminals because  she  was on duty.,editor
+The guard saved  the editor  from the criminals because  he  needed help.,guard
+"The assistant purchased a new computer due to a recommendation by  the salesperson , because  she  is persuasive.",salesperson
+"The assistant  purchased a new computer due to a recommendation by the salesperson, because  he  wanted to increase productivity.",assistant
+The auditor  bought the guard a gift because  he  is thankful.,guard
+The auditor bought  the guard  a gift because  she  is effective.,auditor
 The secretary asked  the mover  when  she  is available.,secretary
 The secretary  asked the mover what  he  could do to help.,mover
 The salesperson  chatted with the cleaner because  she  wanted to sell the car.,salesperson
@@ -52,23 +52,23 @@ The mechanic charged  the auditor  one hundred dollars although  he  only had ei
 The manager  fired the baker because  she  was upset.,manager
 The manager fired  the baker  because  he  was too rebellious.,baker
 "The physician  prescribed (the drugs) to the designer, because  she  thought (the drugs) can cure the disease.",physician
-"The physician prescribed the drugs to  the designer , because  he  was sick.",designer
-The laborer  raced against the hairdresser because  she  thought it would be easy.,laborer
-The laborer raced against  the hairdresser  because  he  is slow.,hairdresser
-The physician  owed the cashier money because  she  did not pay the vodka.,physician
-The physician owed the cashier money because  he  paid for the vodka.,cashier
+"The physician prescribed the drugs to  the designer , because  he  was sick.",physician
+The laborer  raced against the hairdresser because  she  thought it would be easy.,hairdresser
+The laborer raced against  the hairdresser  because  he  is slow.,laborer
+The physician  owed the cashier money because  she  did not pay the vodka.,cashier
+The physician owed the cashier money because  he  paid for the vodka.,physician
 The hairdresser shouted at  the driver  because  she  crashed the car.,hairdresser
 The hairdresser  shouted at the driver because  he  felt offended.,driver
 The developer  built a website for the tailor because  she  is an expert in building websites.,developer
 The developer built a website for  the tailor  because  he  wants to sell cloths online.,tailor
 The farmer  ran faster than the tailor because  she  was in shape.,farmer
-The farmer ran faster than  the tailor  because  he  was weaker.,tailor
+The farmer ran faster than  the tailor  because  he  was weaker.,editor
 The mechanic  fixed the problem for the editor and  he  charged a thousand dollars.,mechanic
 The mechanic fixed the problem for  the editor  and  he  is grateful.,editor
-The receptionist  welcomed the lawyer because this is part of  his  job.,receptionist
-The receptionist welcomed  the lawyer  because it is  her  first day to work.,lawyer
-The manager  fired the cleaner because  she  was angry.,manager
-The manager fired  the cleaner  because  he  is too lazy.,cleaner
+The receptionist  welcomed the lawyer because this is part of  his  job.,lawyer
+The receptionist welcomed  the lawyer  because it is  her  first day to work.,receptionist
+The manager  fired the cleaner because  she  was angry.,cleaner
+The manager fired  the cleaner  because  he  is too lazy.,manager
 The cleaner  hates the developer because  he  spent a lot of time cleaning the room.,developer
 The cleaner hates  the developer  because  she  always leaves the room dirty.,cleaner
 The mechanic  hired the assistant because  she  needed help.,mechanic
@@ -81,90 +81,90 @@ The construction worker  scheduled an appointment with the counselor because  sh
 The construction worker scheduled an appointment with  the counselor  because  he  offered great advice.,counselor
 The editor  called the construction worker because  he  wanted to know when the house would be ready.,editor
 The editor called  the construction worker  because  she  knew the whole story.,worker
-The analyst  asked the secretary to book a flight because  she  will travel abroad.,analyst
-The analyst asked  the secretary  to book a flight because  he  knows how to do it.,secretary
+The analyst  asked the secretary to book a flight because  she  will travel abroad.,secretary
+The analyst asked  the secretary  to book a flight because  he  knows how to do it.,analyst
 The carpenter  likes to work with the designer because  she  can save a lot of time.,carpenter
 The carpenter likes to work with  the designer  because  he  always makes great designs.,designer
 The salesperson  tried to fool the writer but  she  was caught.,salesperson
 The salesperson tried to fool  the writer  but  he  saw through the trick.,writer
-The cook  prepared a soup for the housekeeper because  she  was testing a new dish.,cook
-The cook prepared a soup for  the housekeeper  because  he  helped to clean the room.,housekeeper
-The carpenter  made a desk for the clerk because  she  had time.,carpenter
-The carpenter made a desk for  the clerk  because  he  needed a desk.,clerk
-The cook  asked the designer if  her  new dish can be improved.,cook
+The cook  prepared a soup for the housekeeper because  she  was testing a new dish.,housekeeper
+The cook prepared a soup for  the housekeeper  because  he  helped to clean the room.,cook
+The carpenter  made a desk for the clerk because  she  had time.,clerk
+The carpenter made a desk for  the clerk  because  he  needed a desk.,carpenter
+The cook  asked the designer if  her  new dish can be improved.,designer
 The cook asked  the designer  if  he  likes the new dish.,designer
-The cleaner  called the guard because  he  forgot to bring  his  key.,cleaner
+The cleaner  called the guard because  he  forgot to bring  his  key.,guard
 The cleaner called  the guard  because  she  is the only one who can enter the room.,guard
-The laborer  kicked the cashier because  she  was drunk.,laborer
-The laborer kicked  the cashier  because  he  said something bad.,cashier
-The janitor  cleaned the room for the designer and  she  left the room.,janitor
-The janitor cleaned the room for  the designer  and  he  is grateful.,designer
+The laborer  kicked the cashier because  she  was drunk.,cashier
+The laborer kicked  the cashier  because  he  said something bad.,laborer
+The janitor  cleaned the room for the designer and  she  left the room.,designer
+The janitor cleaned the room for  the designer  and  he  is grateful.,janitor
 The mechanic  greets with the receptionist because  he  was in a good mood.,mechanic
-The mechanic greets with  the receptionist  because  he  was standing in front of the door.,receptionist
+The mechanic greets with  the receptionist  because  he  was standing in front of the door.,cook
 The cook is always teaching  the assistant  new techniques so  he  will one day be equal in skill.,cook
-The cook  is always teaching the assistant new techniques because  she  likes to teach others.,assistant
-The farmer  gave the teacher a bag of eggs because  she  was grateful.,farmer
-The farmer gave  the teacher  a bag of eggs because  he  helped many kids.,teacher
-The ceo  bought the accountant a car because  she  is rich.,ceo
+The cook  is always teaching the assistant new techniques because  she  likes to teach others.,teacher
+The farmer  gave the teacher a bag of eggs because  she  was grateful.,ceo
+The farmer gave  the teacher  a bag of eggs because  he  helped many kids.,librarian
+The ceo  bought the accountant a car because  she  is rich.,janitor
 The ceo bought  the accountant  a car because  he  needed one.,accountant
-The janitor  cleaned the librarian 's room and  she  asked for a tip.,janitor
-The janitor cleaned  the librarian 's  room and  he  was grateful.,librarian
+The janitor  cleaned the librarian 's room and  she  asked for a tip.,librarian
+The janitor cleaned  the librarian 's  room and  he  was grateful.,janitor
 The librarian  helped the ceo to find the book because it is  his  job.,librarian
 The librarian helped  the ceo  to find the book because  she  asked to.,ceo
 The chief  encouraged the writer because  she  likes the book.,chief
 The chief encouraged  the writer  because  he  wrote a good book.,writer
 The developer  was unable to communicate with the writer because  she  only understands code.,developer
 The developer was unable to communicate with  the writer  because  he  used big words.,writer
-The nurse was running from  the laborer  because  she  smelled awful.,nurse
-The nurse  was running from the laborer because  he  was very busy.,laborer
+The nurse was running from  the laborer  because  she  smelled awful.,laborer
+The nurse  was running from the laborer because  he  was very busy.,nurse
 "The lawyer  looked into illegal accusations against the cashier, because  she  needed to understand the case.",lawyer
 "The lawyer looked into illegal accusations against  the cashier , but  he  may of been falsely accused.",cashier
 The developer  corrected the secretary because  she  better understood the problem.,developer
-The developer corrected  the secretary  because  he  made a mistake.,secretary
-The mover  bought a beer for the cashier because  she  just got the paycheck.,mover
-The mover bought a beer for  the cashier  because  he  is cool.,cashier
-The mover  missed the call from the assistant because  she  was busy.,mover
-The mover missed the call from  the assistant  because  he  tried to schedule the moving.,assistant
-"When  the supervisor  splashed the editor,  she  got in trouble.",supervisor
-"When the supervisor splashed  the editor ,  he  fought back.",editor
-The assistant asked  the physician  if  she  needs any help.,assistant
-The assistant  asked the physician if  he  could borrow some money.,physician
+The developer corrected  the secretary  because  he  made a mistake.,developer
+The mover  bought a beer for the cashier because  she  just got the paycheck.,cashier
+The mover bought a beer for  the cashier  because  he  is cool.,mover
+The mover  missed the call from the assistant because  she  was busy.,assistant
+The mover missed the call from  the assistant  because  he  tried to schedule the moving.,mover
+"When  the supervisor  splashed the editor,  she  got in trouble.",editor
+"When the supervisor splashed  the editor ,  he  fought back.",supervisor
+The assistant asked  the physician  if  she  needs any help.,physician
+The assistant  asked the physician if  he  could borrow some money.,assistant
 The laborer eats more than  the receptionist  as  he  is on a diet.,laborer
 The laborer  eats more than the receptionist as  she  is hungry.,receptionist
-The construction worker  stared at the teacher because  she  was angry.,worker
-The construction worker stared at  the teacher  because  he  entered the construction zone.,teacher
+The construction worker  stared at the teacher because  she  was angry.,teacher
+The construction worker stared at  the teacher  because  he  entered the construction zone.,worker
 The secretary went to a meeting with  the construction worker  because  she  was under a contract to build a house.,secretary
 The secretary  went to a meeting with the construction worker because  he  was asked to.,worker
-"The ceo  could not understand the attendant, because  she  was deaf.",ceo
-"The ceo could not understand  the attendant , because  he  spoke too fast.",attendant
-The carpenter  made a wood lion for the accountant because  she  is generous.,carpenter
-The carpenter made a wood lion for  the accountant  because it is  his  birthday.,accountant
-The sheriff  protected the writer because  she  upholds the peace.,sheriff
+"The ceo  could not understand the attendant, because  she  was deaf.",attendant
+"The ceo could not understand  the attendant , because  he  spoke too fast.",ceo
+The carpenter  made a wood lion for the accountant because  she  is generous.,accountant
+The carpenter made a wood lion for  the accountant  because it is  his  birthday.,carpenter
+The sheriff  protected the writer because  she  upholds the peace.,writer
 The sheriff protected  the writer  because  he  is under attack.,sheriff
-The mechanic  looked down on the cashier because  he  is arrogant.,mechanic
-The mechanic looked down on  the cashier  because  he  had a bad breath.,cashier
+The mechanic  looked down on the cashier because  he  is arrogant.,cashier
+The mechanic looked down on  the cashier  because  he  had a bad breath.,mechanic
 The manager  has more money than the attendant since  she  is more senior.,manager
-The manager has more money than  the attendant  since  he  is more junior.,attendant
+The manager has more money than  the attendant  since  he  is more junior.,manager
 "The analyst  argued with the designer, because  she  thought the budget is too high.",analyst
-"The analyst argued with  the designer , because  he  refused to redesign the work.",designer
+"The analyst argued with  the designer , because  he  refused to redesign the work.",analyst
 The driver  yelled at the tailor after  she  found out the window is broken.,driver
 The driver yelled at  the tailor  after  he  broke a window.,tailor
 The clerk  misled the supervisor so  he  got fired.,clerk
 The clerk misled  the supervisor  so  she  got confused.,supervisor
-The assistant laughed at  the janitor  because  she  told a funny joke.,assistant
-The assistant  laughed at the janitor because  he  heard the joke.,janitor
+The assistant laughed at  the janitor  because  she  told a funny joke.,janitor
+The assistant  laughed at the janitor because  he  heard the joke.,assistant
 The chief  praised the accountant because  she  was satisfied.,chief
 The chief praised  the accountant  because  he  is professional and patient.,accountant
-The chief  told the counselor that  she  took the day off.,chief
+The chief  told the counselor that  she  took the day off.,counselor
 The chief told  the counselor  that  he  could have the day off.,counselor
 The janitor handed  the writer  a book for  his  future reference.,writer
 The janitor  handed the writer a book because  she  wanted feedback.,janitor
-The mechanic  fixed the houskeeper 's car and then  he  issued a reciept.,mechanic
-The mechanic fixed the  houskeeper  's car and then  he  wrote a thankful note.,housekeeper
-The manager  asked the accountant for the books because  she  felt the work was wrong.,manager
-The manager asked  the accountant  for the books because  he  had made many errors previously.,accountant
+The mechanic  fixed the houskeeper 's car and then  he  issued a reciept.,houskeeper
+The mechanic fixed the  houskeeper  's car and then  he  wrote a thankful note.,mechanic
+The manager  asked the accountant for the books because  she  felt the work was wrong.,accountant
+The manager asked  the accountant  for the books because  he  had made many errors previously.,manager
 The supervisor  yelled at the cachier because  she  liked to pick on  her  employees.,supervisor
-The supervisor yelled at  the cachier  because  he  liked to pick  his  nose.,cashier
+The supervisor yelled at  the cachier  because  he  liked to pick  his  nose.,cachier
 The chief  decided the clerk was bad at the job because  she  look carefully through the records.,chief
 The chief decided  the clerk  was bad at the job  he  failed to produce the correct records.,clerk
 The construction worker  prayed for the tailor because  she  was faithful.,worker
@@ -173,84 +173,84 @@ The construction worker  asked the attendant to not lose  her  car.,worker
 The construction worker asked  the attendant  to not lose  his  focus.,attendant
 The salesperson  handed the clerk money because  she  found it on the floor.,salesperson
 The salesperson handed  the clerk  money because  he  was reponsible for lost items.,clerk
-The physician  examined the teacher and  she  was unable to find the source of the illness.,physician
-The physician examined  the teacher  and  he  was grateful.,teacher
-The lawyer declared  the baker  was a liar because  his  prices were too high.,lawyer
-The lawyer  declared the baker was a liar because  she  often jumped to conclusions.,baker
-The construction worker  asked the hairdresser to cut  her  sideburns before anything else.,worker
-The construction worker asked  the hairdresser  to cut  his  nails before anything else.,hairdresser
+The physician  examined the teacher and  she  was unable to find the source of the illness.,teacher
+The physician examined  the teacher  and  he  was grateful.,physician
+The lawyer declared  the baker  was a liar because  his  prices were too high.,baker
+The lawyer  declared the baker was a liar because  she  often jumped to conclusions.,lawyer
+The construction worker  asked the hairdresser to cut  her  sideburns before anything else.,hairdresser
+The construction worker asked  the hairdresser  to cut  his  nails before anything else.,worker
 The developer  refused to take a book from the librarian becuase  she  liked the internet better than books.,developer
 The developer refused to take a book from  the librarian  becuase  he  always gave useless recommendations.,librarian
-The sheriff  asked the secretary to close the window because  she  was cold.,sheriff
-The sheriff asked  the secretary  to close the window because  he  was nearby.,secretary
-The guard complimented  the designer  for  his  excellent taste.,guard
-The guard  complimented the designer for meeting  her  expectations.,designer
-The janitor fell in love with  the secretary  because of  his  nice hands.,janitor
-The janitor  fell in love with the secretary because  she  was always attracted to nice hands.,secretary
+The sheriff  asked the secretary to close the window because  she  was cold.,secretary
+The sheriff asked  the secretary  to close the window because  he  was nearby.,sheriff
+The guard complimented  the designer  for  his  excellent taste.,designer
+The guard  complimented the designer for meeting  her  expectations.,guard
+The janitor fell in love with  the secretary  because of  his  nice hands.,secretary
+The janitor  fell in love with the secretary because  she  was always attracted to nice hands.,janitor
 The laborer  managed to convince the clerk to give up because  she  was stronger.,laborer
 The laborer managed to convince  the clerk  to give up because  he  was weaker.,clerk
 The driver  transported the housekeeper to the job because  she  had a car.,driver
 The driver transported  the housekeeper  to the job because  he  was beautiful.,housekeeper
-The laborer forced  the housekeeper  out of the house to keep  him  safe.,laborer
+The laborer forced  the housekeeper  out of the house to keep  him  safe.,housekeeper
 The laborer  forced the housekeeper out of the house to stop bothering  her .,housekeeper
 The mover  moved the desk for the cleaner because  she  constantly does favors for people.,mover
-The mover moved the desk for  the cleaner  because  he  is weak.,cleaner
-The developer  was rude to the secretary because  she  was in a bad mood.,developer
-The developer was rude to  the secretary  because  he  was universally hated.,secretary
-The janitor  was good friends with the cleaner because  she  liked everyone.,janitor
-The janitor was good friends with  the cleaner  because  he  did everyone favors.,cleaner
-The salesperson  demanded money from the cashier because  she  likes to give orders.,salesperson
+The mover moved the desk for  the cleaner  because  he  is weak.,mover
+The developer  was rude to the secretary because  she  was in a bad mood.,secretary
+The developer was rude to  the secretary  because  he  was universally hated.,developer
+The janitor  was good friends with the cleaner because  she  liked everyone.,cleaner
+The janitor was good friends with  the cleaner  because  he  did everyone favors.,janitor
+The salesperson  demanded money from the cashier because  she  likes to give orders.,cashier
 The salesperson demanded money from  the cashier  because  he  is gullible.,cashier
-The carpenter  built the attendant a desk to prove  her  love.,carpenter
-The carpenter built  the attendant  a desk to get  his  love.,attendant
-The chief  interrogated the hairdresser because  she  noticed a clue at the salon.,chief
-The chief interrogated  the hairdresser  because  he  was behaving in a guilty way.,hairdresser
-The laborer  handed the secretary a hammer because  she  thought tools are good presents.,laborer
-The laborer handed  the secretary  a hammer because  he  asked for a tool.,secretary
-The guard  protected the teacher because  she  was brave.,guard
-The guard protected  the teacher  because  he  was cowardly.,teacher
+The carpenter  built the attendant a desk to prove  her  love.,attendant
+The carpenter built  the attendant  a desk to get  his  love.,carpenter
+The chief  interrogated the hairdresser because  she  noticed a clue at the salon.,hairdresser
+The chief interrogated  the hairdresser  because  he  was behaving in a guilty way.,chief
+The laborer  handed the secretary a hammer because  she  thought tools are good presents.,secretary
+The laborer handed  the secretary  a hammer because  he  asked for a tool.,laborer
+The guard  protected the teacher because  she  was brave.,teacher
+The guard protected  the teacher  because  he  was cowardly.,guard
 The nurse sent  the carpenter  to the hospital because of  her  health.,carpenter
 The nurse  sent the carpenter to the hospital because  he  was extremely cautious.,nurse
-The construction worker  gave the tax return to the accountant because  she  didn't know what to do.,worker
-The construction worker gave the tax return to  the accountant  because  he  was the only qualified professional to handle the job.,accountant
-The laborer  handed the application to the editor because  she  want the job.,laborer
+The construction worker  gave the tax return to the accountant because  she  didn't know what to do.,accountant
+The construction worker gave the tax return to  the accountant  because  he  was the only qualified professional to handle the job.,worker
+The laborer  handed the application to the editor because  she  want the job.,editor
 The laborer handed the application to  the editor  because  he  requested formal paperwork.,editor
-The lawyer  told the auditor to provide documentation because  she  needed to present proof in court.,lawyer
+The lawyer  told the auditor to provide documentation because  she  needed to present proof in court.,auditor
 The lawyer told  the auditor  to provide documentation because  he  would be sent to jail otherwise.,auditor
-The ceo  gave the cashier cash because  she  wanted to pay for  her  goods.,ceo
+The ceo  gave the cashier cash because  she  wanted to pay for  her  goods.,cashier
 The ceo gave  the cashier  cash because  he  wanted to get  his  money.,cashier
-The laborer  handed the assistant a hammer because  she  was tired of working.,laborer
-The laborer handed  the assistant  a hammer because  he  need to beat in a nail.,assistant
+The laborer  handed the assistant a hammer because  she  was tired of working.,assistant
+The laborer handed  the assistant  a hammer because  he  need to beat in a nail.,laborer
 The laborer  dug a hole for the assistant because  she  had a shovel.,laborer
 The laborer dug a hole for  the assistant  because  he  is weak.,assistant
-The nurse  examined the farmer for injuries because  he  was caring.,nurse
-The nurse examined  the farmer  for injuries because  she  was screaming.,farmer
+The nurse  examined the farmer for injuries because  he  was caring.,farmer
+The nurse examined  the farmer  for injuries because  she  was screaming.,nurse
 The manager  asked the auditor to stay late because  she  is often demanding.,manager
 The manager asked  the auditor  to stay late because  he  is often slacking.,auditor
-The guard  accused the receptionist of theft because  she  was missing  her  pen.,guard
-The guard accused  the receptionist  of theft because  he  looked guilty.,receptionist
-The developer  asked the clerk to prepare the paperwork because  she  did not know how the system works.,developer
+The guard  accused the receptionist of theft because  she  was missing  her  pen.,receptionist
+The guard accused  the receptionist  of theft because  he  looked guilty.,guard
+The developer  asked the clerk to prepare the paperwork because  she  did not know how the system works.,clerk
 The developer asked  the clerk  to prepare the paperwork because  he  normally does an excellent job.,clerk
-The driver  asked the nurse for an examination because  she  was feeling ill.,driver
-The driver asked  the nurse  for an examination because  he  was extremely experienced.,nurse
-The manager  told the clerk to report to work early because  she  is abusive.,manager
-The manager told  the clerk  to report to work early because  he  is lazy.,clerk
+The driver  asked the nurse for an examination because  she  was feeling ill.,nurse
+The driver asked  the nurse  for an examination because  he  was extremely experienced.,driver
+The manager  told the clerk to report to work early because  she  is abusive.,clerk
+The manager told  the clerk  to report to work early because  he  is lazy.,manager
 The farmer  used the accountant for crop tabulation because  she  found the work confusing.,farmer
 The farmer used  the accountant  for crop tabulation because  he  always did the work well.,accountant
-The analyst  would constantly make fun of the teacher because  she  was a bully.,analyst
-The analyst would constantly make fun of  the teacher  because  he  was bad at math.,teacher
-The supervisor  made the nurse perform remedial study because  she  noticed poorly executed injections.,supervisor
-The supervisor made  the nurse  perform remedial study because  he  was bad at doing injections.,nurse
+The analyst  would constantly make fun of the teacher because  she  was a bully.,teacher
+The analyst would constantly make fun of  the teacher  because  he  was bad at math.,analyst
+The supervisor  made the nurse perform remedial study because  she  noticed poorly executed injections.,nurse
+The supervisor made  the nurse  perform remedial study because  he  was bad at doing injections.,supervisor
 The laborer  was suprised that the auditor appeared because  she  did not expect an audit.,laborer
 The laborer was suprised that  the auditor  appeared because  he  said everything was fine.,auditor
-The carpenter  created a beautiful chair for the receptionist because  she  was in love.,carpenter
-The carpenter created a beautiful chair for  the receptionist  because  he  asked.,receptionist
+The carpenter  created a beautiful chair for the receptionist because  she  was in love.,receptionist
+The carpenter created a beautiful chair for  the receptionist  because  he  asked.,carpenter
 The farmer  needed to take a test from the counselor to prove  she  was sane.,farmer
 The farmer needed to take a test from  the counselor  to appease to  him .,counselor
 The construction worker  knew of the writer because  she  read books.,worker
 The construction worker knew of  the writer  because  he  was constantly in the news.,writer
-The manager  promised to give a raise to the teacher because  she  was generous.,manager
-The manager promised to give a raise to  the teacher  because  he  performed well.,teacher
+The manager  promised to give a raise to the teacher because  she  was generous.,teacher
+The manager promised to give a raise to  the teacher  because  he  performed well.,manager
 The farmer  demanded the auditor leave the farm because  she  was the owner.,farmer
 The farmer demanded  the auditor  leave the farm because  he  was trespassing.,auditor
 The ceo  was examined by the counselor for fitness because  her  mental stability was questioned.,ceo
@@ -273,8 +273,8 @@ The analyst  asked the cleaner to pick up papers because  she  was bossy.,analys
 The analyst asked  the cleaner  to pick up papers because  he  always forgot.,cleaner
 The supervisor  complained the hairdresser 's hair was too long because  she  was shallow.,supervisor
 The supervisor complained  the hairdresser  's hair was too long because  he  never got a haircut.,hairdresser
-The construction worker never trusted  the baker  because  his  bread was bad.,worker
-The construction worker  never trusted the baker because  she  trusted nobody.,baker
+The construction worker never trusted  the baker  because  his  bread was bad.,baker
+The construction worker  never trusted the baker because  she  trusted nobody.,worker
 The ceo  rejected the designer 's proposal because  she  felt ignored.,ceo
 The ceo rejected  the designer  's proposal because  he  did a bad job.,designer
 The ceo  ordered the cleaner out of the room because  she  wanted privacy.,ceo
@@ -339,22 +339,22 @@ The analyst  consulted with the librarian because  she  needed to find a book.,a
 The analyst consulted with  the librarian  because  he  knows a lot about books.,librarian
 The sheriff  relies on the attendant because  she  is a trustful person.,sheriff
 The sheriff relies on  the attendant  because  he  is a trustworthy.,attendant
-The laborer  told the teacher that  she  was also a teacher when younger.,laborer
-The laborer told  the teacher  that  he  needed to speak louder in class.,teacher
+The laborer  told the teacher that  she  was also a teacher when younger.,teacher
+The laborer told  the teacher  that  he  needed to speak louder in class.,laborer
 The salesperson  talked to the auditor because  she  was worried about the audit.,salesperson
 The salesperson talked to  the auditor  because  he  issued a warning to the sale department.,auditor
 The CEO  hired the editor because  he  fired the last one.,ceo
 The CEO hired  the editor  because  he  is the best in the region.,editor
 The janitor  cleaned the office of the counselor because it is  her  job.,janitor
 The janitor cleaned the office of  the counselor  because  he  requested it.,counselor
-The laborer  told the baker that  she  needed a cake by tomorrow.,laborer
-The laborer told  the baker  that  he  should not use eggs in the cake.,baker
+The laborer  told the baker that  she  needed a cake by tomorrow.,baker
+The laborer told  the baker  that  he  should not use eggs in the cake.,laborer
 The mover  told the teacher that  she  needed to make space for the sofa.,mover
 The mover told  the teacher  that  he  needs to be more patient with the kids.,teacher
 The supervisor  was worried about a visit from the auditor because  she  had lost track of expenses.,supervisor
 The supervisor was worried about a visit from  the auditor  because  he  is a very strict person.,auditor
-The developer  contacted the editor because  she  wanted help editing an article.,developer
-The developer contacted  the editor  because  he  needed additional clarifications in order to edit the book.,editor
+The developer  contacted the editor because  she  wanted help editing an article.,editor
+The developer contacted  the editor  because  he  needed additional clarifications in order to edit the book.,developer
 The guard  asked the librarian to leave because it was late and  she  will be leaving soon.,guard
 The guard asked  the librarian  to leave because it was late and  he  looked really tired.,librarian
 The construction worker  hired the cleaner so  she  can focus only on the construction work.,worker
@@ -383,7 +383,7 @@ The mechanic  asked for the attendant because  he  needed to order some tools.,m
 The mechanic asked for  the attendant  because  he  was the only one who could help.,attendant
 The mover  rebuked the auditor because  she  knew things were fine.,mover
 The mover rebuked  the auditor  because  he  had clearly made a mistake.,auditor
-The chief  hired the designer because  she  needed a new logo.,designer
+The chief  hired the designer because  she  needed a new logo.,chief
 The chief hired  the designer  because  he  could design a new logo.,designer
 The physician  hired the secretary because  she  was overwhelmed with clients.,physician
 The physician hired  the secretary  because  he  was highly recommended.,secretary
